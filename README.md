@@ -4,7 +4,7 @@ This project is based on the sawIntuitiveResearchKit, available at https://githu
 
 ## Special Thanks
 
-I would like to extend my special thanks to Anton Deguet, an expert in dVRK from Johns Hopkins University. Anton has maintained the dvrk repository and provided invaluable assistance during the development of this project.
+I would like to extend my special thanks to Anton Deguet, an expert in dVRK from Johns Hopkins University. Anton has maintained the dvrk repository and provided invaluable assistance to my team during the development of this project.
 
 ## Description
 
