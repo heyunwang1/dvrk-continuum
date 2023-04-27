@@ -1,10 +1,8 @@
-# DaVinci-Assisted Continuum Robot Navigation and Manipulation
------
 # CISII_dvrk
 
 ## Description
 
-This project aims to build a continuum robot navigation and manipulation system with a tendon-driven continuum robot end, based on the sawIntuitiveResearchKit repository available at https://github.com/jhu-dvrk/sawIntuitiveResearchKit. The goal is to improve the reachability and dexterity of the DaVinci robot arm.
+This project aims to build a DaVinci-Assisted Continuum Robot Navigation and Manipulation system with a tendon-driven continuum robot end, based on the sawIntuitiveResearchKit repository available at https://github.com/jhu-dvrk/sawIntuitiveResearchKit. The goal is to improve the reachability and dexterity of the DaVinci robot arm.
 
 ## Acknowledgment
 
@@ -19,7 +17,8 @@ I would like to extend my special thanks to Anton Deguet, an expert in dVRK from
 
 ## Modifications
 
-We have prototyped a dVRK-catheter and implemented navigation and manipulation of a continuum robot end on dVRK. More details can be found in [MODIFICATIONS.md](MODIFICATIONS.md).
+We have prototyped a dVRK-catheter and implemented navigation and manipulation of a continuum robot end on dVRK. More details can be found in `continuum-robot` folder.
+
 
 ## Dependencies
 
@@ -32,20 +31,8 @@ We have prototyped a dVRK-catheter and implemented navigation and manipulation o
 
 ## Installation
 
-Detailed instructions on how to install and set up the modified project, including any additional requirements or dependencies, can be found in [INSTALLATION.md](INSTALLATION.md).
-
-## Usage
-
-Explain how to use the modified project, including any necessary commands, parameters, or example code. More details can be found in [USAGE.md](USAGE.md).
-
-## Contributing
-
-We welcome contributions to this project. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
+Detailed instructions on how to install and set up the modified project, including any additional requirements or dependencies, can be found in `https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/FirstSteps`.
 
 ## License
 
 This project is licensed under the same terms as the original sawIntuitiveResearchKit repository. See [LICENSE](LICENSE) for more information.
-
-## Code of Conduct
-
-Please note that this project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
