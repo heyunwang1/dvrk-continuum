@@ -1,0 +1,2 @@
+# dvrk-ros
+This folder contains all testing files for the dVRK ROS package. The dvrk packages we have used is based on the sawIntuitiveResearchKit, available at https://github.com/jhu-dvrk/sawIntuitiveResearchKit.
