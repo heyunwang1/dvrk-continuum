@@ -31,7 +31,7 @@ We have prototyped a dVRK-catheter and implemented navigation and manipulation o
 
 ## Installation
 
-Detailed instructions on how to install and set up the modified project, including any additional requirements or dependencies, can be found in `https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/FirstSteps`.
+Detailed instructions on how to install and set up the modified project, including any additional requirements or dependencies, can be found in https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/FirstSteps.
 
 ## License
 
