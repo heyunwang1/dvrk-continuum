@@ -23,11 +23,11 @@ We have prototyped a dVRK-catheter and implemented navigation and manipulation o
 ## Dependencies
 
 * da Vinci Research Kit hardware: http://research.intusurg.com/dvrkwiki
-* Linux only
+* Linux only, ROS 1.0 (tested with ROS Noetic ): http://wiki.ros.org/noetic/Installation/Ubuntu
 * cisst libraries: https://github.com/jhu-cisst/cisst
 * sawRobotIO1394: http://github.com/jhu-saw/sawRobotIO1394
 * sawControllers: http://github.com/jhu-saw/sawControllers
-* [add any new dependencies required by your modifications]
+* NDI Aurora EM tracking system: https://www.ndigital.com/electromagnetic-tracking-technology/aurora/
 
 ## Installation
 
