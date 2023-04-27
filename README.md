@@ -19,6 +19,8 @@ I would like to extend my special thanks to Anton Deguet, an expert in dVRK from
 
 We have prototyped a dVRK-catheter and implemented navigation and manipulation of a continuum robot end on dVRK. More details can be found in `continuum-robot` folder.
 
+We also implemented NDI Aurora EM tracking system on ROS for dVRK control. More details can be found in `NDI-emtracking` folder.
+
 
 ## Dependencies
 
