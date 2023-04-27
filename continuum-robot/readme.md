@@ -1,0 +1,1 @@
+This folder contains all available CAD files for the dVRK-catheter prototype. The prototype is designed to be compatible with the da Vinci Research Kit hardware, available at http://research.intusurg.com/dvrkwiki. 
